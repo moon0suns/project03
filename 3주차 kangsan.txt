@@ -1,40 +1,11 @@
 과제 3주차 <주제:건설회사 - 강산건설>
 
-다단메뉴하기
- btn_main_st2~ 
- btn_main_st3 =vies more 통일
-폰트 txt_sec_tit 통일
-
-ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
-현대엘리베이터 
-mainContent  .sect .tit
-mainContent .desc
-
-강산건설
-1.3.
-txt_sub_tit :16px
-txt_sec_tit : 24px
-p.category
-tit_ell
-date
 
 
-2.
-txt_sec_tit 
-txt_con_tit
-txt_con_desc
-
-txt_visual_tit
-txt_visual_desc
-
-main_slide
-main_business
-main_about
-main_news
 
 section 패딩 맞추기
 main_sec : padding 150px 0
-ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 wrapper
 <header.header>
 -로고 img
@@ -143,35 +114,6 @@ VIEW MORE
 주소  서울 강남구 도곡로1길 25 강산빌딩
 ©2021. Kangsan Construction inc.
 --------------------------------------------------------------------------------------------
-
-강산건설 소스 html
-
-header. header
-header_inner
-h1 =logo <a>태그안에 img
-nav 
--gnv -ul>li
--------------------------------
-section id = main_slide
----------------------------------
-.main_visual_slide_wrapper
-.swiper_wrapper
-  .swiper_slide slide_01
-  .img
-  .aea
-  .txt_wrap
-  <p> <b>아름다운<b> 강산
-  .swiper_slide slide_02
-  .swiper_slide slide_03
-<다음,이전 버튼>
-swiper button prev
-<스크롤 다운>
--------------------------------
-section id = main_business
----------------------------------
-.main_sec_main_business_wrap
-.txt_sec_wrap
-
 
 
 
