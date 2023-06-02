@@ -567,12 +567,6 @@ header.on .bar>i {
   padding: 0 50px;
 }
 
-.board_list_wrap .txt_board_list h3 {
-  font-size: 26px;
-  font-weight: 500;
-  margin: 0 0 20px 0;
-  line-height: 1.3;
-}
 
 .board_list_wrap .txt_board_list ul {
   font-size: 18px;
